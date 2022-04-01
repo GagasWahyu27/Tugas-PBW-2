@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* kiri ---------------------------------------------------------- */
+.semua-kiri{
+    float: left;
+    width: 25%; height: 100%;
+}
+
+.judul-atas{
+    margin-top: 50px; margin-bottom: 50px;
+    background-color: black;
+}
+
+.judul-atas h1{
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.konten img{
+    height: 50px;
+}
+
+.konten ul{
+    margin-bottom: 50px;
+}
+
+.konten li{
+    margin-bottom: 8px;
+}
+
+details{
+    margin-left: 10px;
+}
+
+/* kanan---------------------------------------------------------- */
+.semua-kanan{
+    width: 75%;
+    background-color: black;
+    float: left;
+}
+
+.semua-kanan img{
+    height: 650px;
+}
+
+.capt{
+    margin: 40px;
+}
+
+.semua-kanan p{
+    color: white;
+    text-align: center;
+}
